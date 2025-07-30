@@ -1,4 +1,4 @@
-⁸# Генератор стабов для Bitrix24 под Neovim + Intelephense
+# Генератор стабов для Bitrix24 под Neovim + Intelephense
 
 ## Описание
 
